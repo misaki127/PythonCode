@@ -1,0 +1,118 @@
+30 - D:/python/selenium_UI/logging1.py - logging1.py - <module> - 17-2020-06-22 17:59:53,203-Something maybe fail.
+2020-06-22 18:00:28,212 - __main__ - INFO - Start print log
+2020-06-22 18:00:28,212 - __main__ - DEBUG - Do something
+2020-06-22 18:00:28,213 - __main__ - WARNING - Something maybe fail.
+2020-06-22 18:00:28,213 - __main__ - INFO - Finish
+2020-06-22 18:01:26,701 - __main__ - INFO - Start print log
+2020-06-22 18:01:26,701 - __main__ - DEBUG - Do something
+2020-06-22 18:01:26,702 - __main__ - WARNING - Something maybe fail.
+2020-06-22 18:01:26,702 - __main__ - INFO - Finish
+2020-06-22 18:03:34,855 - __main__ - INFO - Start print log
+2020-06-22 18:03:34,855 - __main__ - DEBUG - Do something
+2020-06-22 18:03:34,855 - __main__ - WARNING - Something maybe fail.
+2020-06-22 18:03:34,855 - __main__ - INFO - Finish
+2020-06-22 18:06:30,601 - __main__ - INFO - Start print log
+2020-06-22 18:06:30,601 - __main__ - DEBUG - Do something
+2020-06-22 18:06:30,601 - __main__ - WARNING - Something maybe fail.
+2020-06-22 18:06:30,601 - __main__ - INFO - Finish
+2020-06-23 15:43:36,245 - root - log_test.py -INFO -  1 is 1
+2020-06-23 15:45:04,118 - root - log_test.py -INFO -  0 is 0
+2020-06-23 15:45:04,118 - root - log_test.py -INFO -  1 is 1
+2020-06-23 15:45:04,118 - root - log_test.py -INFO -  2 is 4
+2020-06-23 15:45:04,118 - root - log_test.py -INFO -  3 is 9
+2020-06-23 15:45:04,118 - root - log_test.py -INFO -  4 is 16
+2020-06-23 15:45:04,118 - root - log_test.py -INFO -  5 is 25
+2020-06-23 15:45:04,119 - root - log_test.py -INFO -  6 is 36
+2020-06-23 15:45:04,119 - root - log_test.py -INFO -  7 is 49
+2020-06-23 15:45:04,119 - root - log_test.py -INFO -  8 is 64
+2020-06-23 15:49:00,730 - root - log_test.py -INFO -  0 is 9.0
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  8 is 8.5
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  16 is 8.333333333333334
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  24 is 8.25
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  32 is 8.2
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  40 is 8.166666666666666
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  48 is 8.142857142857142
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  56 is 8.125
+2020-06-23 15:49:00,731 - root - log_test.py -INFO -  64 is 8.11111111111111
+2020-06-23 15:49:43,225 - root - log_test.py -INFO -  ---------fun start--------
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 1.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 2.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 3.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 4.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 5.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 6.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 7.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 8.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 9.0
+2020-06-23 15:49:43,226 - root - log_test.py -INFO -  0 is 0.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  1 is 1.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  2 is 2.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  3 is 3.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  4 is 4.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  5 is 5.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  6 is 6.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  7 is 7.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  8 is 8.5
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  0 is 0.3333333333333333
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  2 is 1.3333333333333333
+2020-06-23 15:49:43,227 - root - log_test.py -INFO -  4 is 2.3333333333333335
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  6 is 3.3333333333333335
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  8 is 4.333333333333333
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  10 is 5.333333333333333
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  12 is 6.333333333333333
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  14 is 7.333333333333333
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  16 is 8.333333333333334
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  0 is 0.25
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  3 is 1.25
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  6 is 2.25
+2020-06-23 15:49:43,228 - root - log_test.py -INFO -  9 is 3.25
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  12 is 4.25
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  15 is 5.25
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  18 is 6.25
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  21 is 7.25
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  24 is 8.25
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  0 is 0.2
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  4 is 1.2
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  8 is 2.2
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  12 is 3.2
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  16 is 4.2
+2020-06-23 15:49:43,229 - root - log_test.py -INFO -  20 is 5.2
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  24 is 6.2
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  28 is 7.2
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  32 is 8.2
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  0 is 0.16666666666666666
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  5 is 1.1666666666666667
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  10 is 2.1666666666666665
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  15 is 3.1666666666666665
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  20 is 4.166666666666667
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  25 is 5.166666666666667
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  30 is 6.166666666666667
+2020-06-23 15:49:43,230 - root - log_test.py -INFO -  35 is 7.166666666666667
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  40 is 8.166666666666666
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  0 is 0.14285714285714285
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  6 is 1.1428571428571428
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  12 is 2.142857142857143
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  18 is 3.142857142857143
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  24 is 4.142857142857143
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  30 is 5.142857142857143
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  36 is 6.142857142857143
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  42 is 7.142857142857143
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  48 is 8.142857142857142
+2020-06-23 15:49:43,231 - root - log_test.py -INFO -  0 is 0.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  7 is 1.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  14 is 2.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  21 is 3.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  28 is 4.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  35 is 5.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  42 is 6.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  49 is 7.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  56 is 8.125
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  0 is 0.1111111111111111
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  8 is 1.1111111111111112
+2020-06-23 15:49:43,232 - root - log_test.py -INFO -  16 is 2.111111111111111
+2020-06-23 15:49:43,233 - root - log_test.py -INFO -  24 is 3.111111111111111
+2020-06-23 15:49:43,233 - root - log_test.py -INFO -  32 is 4.111111111111111
+2020-06-23 15:49:43,233 - root - log_test.py -INFO -  40 is 5.111111111111111
+2020-06-23 15:49:43,233 - root - log_test.py -INFO -  48 is 6.111111111111111
+2020-06-23 15:49:43,233 - root - log_test.py -INFO -  56 is 7.111111111111111
+2020-06-23 15:49:43,233 - root - log_test.py -INFO -  64 is 8.11111111111111

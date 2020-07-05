@@ -1,0 +1,47 @@
+#encoding:utf-8
+
+import pygame
+from pygame.locals import *
+from sys import exit
+
+bg_image = 'D:/bg.jpg'
+mouse_image = 'D:/mouse.jpg'
+screent_size = (540,380)
+#初始化
+pygame.init()
+pygame.font.init()
+#创建一个窗口
+screent = pygame.display.set_mode(screent_size,0,32)
+
+#设置窗口标题
+pygame.display.set_caption("测试窗口")
+
+#加载图片并转换
+bg = pygame.image.load(bg_image)
+mouse = pygame.image.load(mouse_image)
+
+font = pygame.font.SysFont('arial',15,False,True)
+
+#游戏主循环
+while True:
+    for event in pygame.event.get():
+        if event.type == QUIT:
+            exit()
+        if event.K_F11 == pygame.KEYDOWN:
+            screent = pygame.display.set_mode(screent_size, 0, 32)
+
+
+        pygame.font.Font.render(font, 'test', True, (0, 0, 255))
+
+    #将背景图放上去
+    screent.blit(bg,(0,0))
+    pygame.font.Font.render(font,'test',True,(0,0,255))
+    #获得鼠标位置
+    x,y = pygame.mouse.get_pos()
+    #计算光标左上角位置
+    x -= mouse.get_width()/2
+    y -= mouse.get_height()/2
+    #画光标
+    screent.blit(mouse,(x,y))
+    #刷新画面
+    pygame.display.update()
